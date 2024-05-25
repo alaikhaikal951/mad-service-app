@@ -31,3 +31,11 @@ body {
     text-wrap: balance;
   }
 }
+
+span .text-white {
+  color: black !important;
+}
+
+#copyright {
+  color: white !important;
+}
